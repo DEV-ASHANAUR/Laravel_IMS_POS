@@ -1,0 +1,26 @@
+.image{
+    /* <--!background-image: url(../img/IMG_0005.JPG); */
+ width: 100%;
+ height: auto;
+ border-radius: 50%;
+}
+.chat_container{
+ width: 100%;
+ max-width: 100px;
+ background-size: cover;
+ min-height: 100px;
+ background-position: center;
+ position: relative;
+ border-radius: 50%;
+ margin-left: auto;
+ margin-right: auto;
+}
+i.gj-icon {
+    display: none!important;
+}
+.select2{
+    color: #444;
+    line-height: 37px!important;
+    /* height: 20px; */
+}
+
